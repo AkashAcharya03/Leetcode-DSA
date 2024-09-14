@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,5 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
 
