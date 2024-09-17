@@ -1,16 +1,11 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        # leftsum=0
-        # rigthsum=0
         for i in range(0,len(nums)):
-            print("jhfbdsf")
 
-            # pivot=nums[i]
             leftsum=sum(nums[0:i])
             rigthsum=sum(nums[i+1:])
             print(leftsum,rigthsum)
             if leftsum==rigthsum:
-                print("jhfbdsf")
                 return i
         return -1
 
