@@ -4,7 +4,6 @@ class Solution:
 
             leftsum=sum(nums[0:i])
             rigthsum=sum(nums[i+1:])
-            print(leftsum,rigthsum)
             if leftsum==rigthsum:
                 return i
         return -1
