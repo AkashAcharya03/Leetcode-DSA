@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1833-find-the-highest-altitude](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
 
