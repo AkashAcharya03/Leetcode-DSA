@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0392-is-subsequence) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -55,5 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
 
