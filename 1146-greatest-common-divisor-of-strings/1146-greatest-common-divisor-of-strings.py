@@ -3,8 +3,11 @@ class Solution:
         if str1 + str2 != str2 + str1:
             return ""
         
-        # Find the greatest common divisor of the lengths of the two strings
-        gcd_len = math.gcd(len(str1), len(str2))
+        gcd_len = gcd(len(str1), len(str2))
         
-        # The GCD string will be the prefix of str1 up to gcd_len
         return str1[:gcd_len]
+
+    def gcd(a, b):
+        while b:
+            a, b = b, a % b
+        return a
