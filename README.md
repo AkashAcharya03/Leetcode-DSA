@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,5 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
 
