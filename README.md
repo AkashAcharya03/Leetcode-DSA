@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1894-merge-strings-alternately) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2736-minimum-additions-to-make-valid-string) |
 <!---LeetCode Topics End-->
 
