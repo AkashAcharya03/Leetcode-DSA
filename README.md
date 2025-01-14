@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,5 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2736-minimum-additions-to-make-valid-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
 
