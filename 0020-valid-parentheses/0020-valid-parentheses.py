@@ -7,7 +7,7 @@ class Solution:
         }
         stack=[]
         for i in s:
-            if i in dic.keys():
+            if i in dic:
                 if stack and stack[-1] == dic[i]:
                     stack.pop()
                 else:
