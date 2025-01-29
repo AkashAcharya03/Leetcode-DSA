@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
