@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0392-is-subsequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0067-add-binary) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
@@ -138,5 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AkashAcharya03/Leetcode-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
 
