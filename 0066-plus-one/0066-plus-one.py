@@ -5,7 +5,6 @@ class Solution:
         for i in range(len(digits)-1,-1,-1):
             if i==len(digits)-1:
                 sum=digits[i]+1+carry
-                carry=0
             else:
                 sum=digits[i]+carry
                 carry=0
