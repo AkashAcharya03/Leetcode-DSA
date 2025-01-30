@@ -6,7 +6,6 @@ class Solution:
                 hashmap[num]+=1
             else:
                 hashmap[num]=1
-        k=[]
         nums.clear()
         for n in hashmap:
             nums.append(int(n))
